@@ -1,4 +1,4 @@
-package org.zlogjs.hstream
+package org.examples.hstream
 
 import java.io._
 import scala.io.Source

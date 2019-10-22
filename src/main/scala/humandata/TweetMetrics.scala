@@ -1,4 +1,4 @@
-package org.zlogjs.hstream
+package org.examples.hstream
 
 import org.apache.log4j.Logger
 import org.apache.log4j.BasicConfigurator;

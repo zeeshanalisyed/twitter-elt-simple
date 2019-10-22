@@ -2,7 +2,7 @@ import Dependencies._
 
 ThisBuild / scalaVersion     := "2.11.0"
 ThisBuild / version          := "0.1.0-SNAPSHOT"
-ThisBuild / organization     := "org.zlogjs"
+ThisBuild / organization     := "org.examples"
 ThisBuild / organizationName := "humandata"
 
 lazy val root = (project in file("."))
